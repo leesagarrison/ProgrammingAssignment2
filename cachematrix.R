@@ -1,6 +1,6 @@
 ## This script is comprised of 2 functions:  makeCacheMatrix and cachesolve.
 ## makeCacheMatrix: This function creates a special "matrix" object that can 
-## cache its inverse.
+## cache its inverse.  
 ## cacheSolve: This function computes the inverse of the special "matrix" 
 ## returned by makeCacheMatrix. If the inverse has already been calculated 
 ## (and the matrix has not changed), then the cachesolve will retrieve the 
